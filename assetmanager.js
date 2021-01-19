@@ -1,3 +1,5 @@
+// Hermie Baylon 
+
 class AssetManager {
     constructor() {
         this.successCount = 0;
