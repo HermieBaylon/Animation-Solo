@@ -24,9 +24,3 @@ window.requestAnimFrame = (function () {
             window.setTimeout(callback, 1000 / 60);
         };
 })();
-
-// add global parameters here
-
-//var params = {
-// 
-//};
